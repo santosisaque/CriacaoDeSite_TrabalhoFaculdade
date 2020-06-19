@@ -1,0 +1,195 @@
+body{
+    
+   
+    margin: -10px -30px -10px -10px;
+}
+
+.container{
+    background-color: black;
+    height: 650px;
+    color: white;
+    margin-bottom: 50px;
+
+}
+
+header{
+    background-color: black;
+    color: white;
+    margin: -10px;
+    display: flex;
+    
+}
+
+#logo img{  
+    margin-left: 30px;
+    width: 300px;
+    height: 300px
+}
+
+header h1{
+    margin-left: 280px;
+    font-size: 50px;
+    margin-left: 90px;
+}
+
+.texto{
+    margin-top: -60px;
+    margin-bottom: 120px;
+    margin-left: 140px;
+    margin-right: 40px;
+    width: 450px;
+    
+    
+    
+}
+.main{
+    display: flex;
+    margin-left: 90px;
+    margin-right:-30px ;
+}
+
+.main img{
+    width: 350px;
+    height: 350px;
+    margin:-50px 0 0 90px;
+    
+
+}
+.texto p{
+    font-size: 20px;
+}
+
+footer{
+    color: black;
+    background-color: rgba(0, 0, 0, 0.11);
+    margin: 30px-20px 10px 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.arrow-down {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -6.66666666666666666666666667%;
+    width: 0;
+    height: 0;
+    border-left: 6vw solid transparent;
+    border-right: 6vw solid transparent;
+    z-index: 2;
+  }
+  
+  .arrow-down-menu {
+    border-top: 3.3vw solid black;
+    margin-bottom: 20px;
+  }
+
+  .arrow-down-sobre {
+    border-top: 3.3vw solid black;
+    margin-bottom: 20px;
+  }
+  
+  .parte-2{
+    margin: 20px;
+    margin-bottom: -50px;
+    
+      background-color: white;
+      color: black;
+      
+      
+  }
+  .parte-2 img{
+    height: 300px;
+    width: 350px;
+    
+  }
+
+  .vantagens{
+      display: flex;
+      direction: row;
+      justify-content: center;
+     
+  }
+
+  .vantagens-item{
+      margin:100px;
+      margin-top: -10px;
+
+  }
+  .vantagens p{
+      font-size: 30px;  
+      margin-top: 40px;
+  }
+
+  .parte-2 h1{
+      margin: 10px 10px 40px 100px;
+  }
+
+  .sobre img{
+      height: 250px;
+      width: 250px;
+      border-radius: 50%;
+  }
+
+  .sobre-empresa{
+      margin-left: 230px;
+      width: 400px;
+ 
+    
+  }
+
+  .sobre li{
+      font-size: 20px;
+      
+      
+  }
+
+ 
+  .sobre-empresa h1{
+    text-align: center;
+  }
+  
+  .sobre-fundador{  
+      width: 500px;     
+      margin-left:210px;
+     
+
+
+      
+  }
+
+  .sobre{
+      background-color: black;  
+      display: flex;
+      color: white;
+      padding-top: 60px;
+      padding-bottom: 80px;
+     
+
+  }
+  .sobre-empresa img {
+     margin-left: 50px;
+      
+  }
+ 
+ #txtNome, #txtEmail, #txtObservacao{
+     height: 20px;
+     width: 200px;
+    
+ }
+ label{
+     margin-left: 20px;
+ }
+ #retorna{
+     font-size: 20px;
+     margin-top: 30px;
+     text-align: none;
+     border: 1px solid black;
+     width: 100px;
+     margin-left: 640px;
+     
+     
+     text-align: center;
+     background-color: white;
+     padding: 5px;
+ }
